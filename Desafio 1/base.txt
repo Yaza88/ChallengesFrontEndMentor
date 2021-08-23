@@ -1,0 +1,36 @@
+# Guia de estilo de front-end
+
+## Layout
+
+Os designs foram criados com as seguintes larguras:
+
+- Celular: 375 px
+- Desktop: 1440px
+
+## Colors
+
+### Primário
+
+- Azul muito escuro (fundo principal): hsl (233, 47%, 7%)
+- Azul escuro dessaturado (fundo do cartão): hsl (244, 38%, 16%)
+- Violeta suave (sotaque): hsl (277, 64%, 61%)
+
+### Neutro
+
+- Branco (título principal, estatísticas): hsl (0, 0%, 100%)
+- Branco ligeiramente transparente (parágrafo principal): hsla (0, 0%, 100%, 0,75)
+- Branco ligeiramente transparente (cabeçalhos estatísticos): hsla (0, 0%, 100%, 0,6)
+
+## Tipografia
+
+### Cópia do corpo
+
+- Tamanho da fonte: 15px
+
+### Fonte
+
+- Família: [Inter] (https://fonts.google.com/specimen/Inter)
+- Pesos: 400, 700
+
+- Família: [Lexend Deca] (https://fonts.google.com/specimen/Lexend+Deca)
+- Pesos: 400
